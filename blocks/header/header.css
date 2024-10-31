@@ -1,0 +1,7 @@
+.header {
+    max-width: 1184px;
+    height: calc(52px+28px);
+    margin: 0 auto 56px;
+    padding-top: 28px;
+    position: relative;
+}
