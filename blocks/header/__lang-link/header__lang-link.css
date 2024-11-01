@@ -13,6 +13,7 @@
 
 .header__lang-link_ru {
     right: 47px;
+    text-decoration: underline;
 }
 
 @media screen and (max-width: 320px) {
